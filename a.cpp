@@ -26,6 +26,7 @@ public:
 
 void main()
 {
+    cout << "Branch2" << endl;
     A obj;
     A obj2 (3, "abv" );
     obj2.print();
