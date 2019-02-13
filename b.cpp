@@ -26,6 +26,8 @@ public:
 
 void main()
 {
+   cout << "Branch1\n";
+   cout << "Pull request\n";
     B obj;
     B obj2 (3, "abv" );
     obj2.print();
